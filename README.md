@@ -86,7 +86,7 @@ ui.add_dropdown(["Option 1", "Option 2", "Option 3"], "Settings")
 
 ## 🖥 **ตัวอย่างเต็ม**
 ```python
-from LiteUi import LiteUi
+from PyLiteUI import LiteUi
 
 def button_clicked(value):
     print("Button clicked!")
